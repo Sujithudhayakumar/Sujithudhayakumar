@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sujith
+Hi there I'm Sujith👋
 - 👀 I’m interested in work with data
 - 🌱 I’m currently learning Data science
 - 📫 Reach me @sujithudhayakumar@gmail.com
