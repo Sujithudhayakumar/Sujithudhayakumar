@@ -1,7 +1,11 @@
 Hi there I'm Sujith👋
-- 👀 I’m interested in work with datas
-- 🌱 I’m currently learning Data science
-- 📫 Reach me @sujithudhayakumar@gmail.com
+Data Science Student👨‍🎓 - IIT Madras university🎓
+Looking for a job to upgrade my skills
+Technical Skills: 
+Python , SQL, Machine Learning, Data visualization
+Education:
+👨‍🎓 B.Com PA - Bharathiyar University (2023) 
+
 
 <!---
 Sujithudhayakumar/Sujithudhayakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
